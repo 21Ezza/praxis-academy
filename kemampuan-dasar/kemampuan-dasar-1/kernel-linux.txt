@@ -1,0 +1,4 @@
+lokasi kernel ada di : "/usr/src"
+
+dan versinya adalah :
+Linux version 5.3.0-28-generic (buildd@lcy01-amd64-009) (gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1))
