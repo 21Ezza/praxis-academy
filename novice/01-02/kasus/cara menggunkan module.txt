@@ -1,0 +1,1 @@
+Untuk penggunaan modulenya tinggal memberikan import lalu

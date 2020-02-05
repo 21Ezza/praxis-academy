@@ -1,6 +1,0 @@
-1. Pro Vue.js
-2. Learn Jquery
-3. PHP Laravel
-4. Django Python3
-5. Learn ReactNative
-5. Learn ReactNative

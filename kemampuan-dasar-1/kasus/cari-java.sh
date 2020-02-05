@@ -1,1 +1,0 @@
-find . -type f -name '*.java' -printf '\033[0m Ada file \033[0;34m %f \033[0m pada directory : \n -> \033[0;32m %h \n'
